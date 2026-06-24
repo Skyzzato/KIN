@@ -34,6 +34,14 @@ L'utente non deve trascorrere ore davanti allo schermo: vive normalmente la prop
 
 
 
+Ogni informazione mostrata deve aumentare la probabilità di una Connessione autentica.
+
+
+
+Se un'informazione rischia di generare un pregiudizio immediato (età, professione, reddito, altezza, ecc.), allora è meglio che resti nell'algoritmo e non nell'interfaccia iniziale.
+
+
+
 \---
 
 
@@ -275,6 +283,4 @@ Ogni utente mantiene il controllo sulle impostazioni di privacy e sulla precisio
 
 
 Diventare il punto di riferimento per gli incontri spontanei basati sulla compatibilità reale e sulla presenza nello stesso contesto geografico, trasformando gli spostamenti quotidiani in autentiche occasioni di conoscenza.
-
-
 

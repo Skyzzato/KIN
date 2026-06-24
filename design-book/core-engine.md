@@ -464,3 +464,119 @@ Propongo questa gerarchia:
 
 In questo modo KIN non ti propone semplicemente la persona più vicina, ma la migliore Occasione disponibile in quel momento.
 
+
+
+\---
+
+
+
+Il ciclo di vita di un'Occasione
+
+
+
+Ogni 30 secondi (valore configurabile) il Core Engine esegua questo processo:
+
+
+
+&#x20;         Utenti online
+
+&#x20;                │
+
+&#x20;                ▼
+
+&#x20;     Filtra utenti invisibili
+
+&#x20;                │
+
+&#x20;                ▼
+
+&#x20;    Calcola Vicinanza geografica
+
+&#x20;                │
+
+&#x20;                ▼
+
+&#x20;     Calcola DNA di Affinità
+
+&#x20;                │
+
+&#x20;                ▼
+
+&#x20;   Calcola Indice di Serendipità
+
+&#x20;                │
+
+&#x20;                ▼
+
+&#x20;   Applica Preferenze reciproche
+
+&#x20;                │
+
+&#x20;                ▼
+
+&#x20;Calcola Valore dell'Occasione
+
+&#x20;                │
+
+&#x20;                ▼
+
+&#x20;    Verifica Principi KIN
+
+&#x20;                │
+
+&#x20;                ▼
+
+&#x20;Genera o non genera Occasione
+
+&#x20;                │
+
+&#x20;                ▼
+
+&#x20;     Spiega il perché
+
+&#x20;                │
+
+&#x20;                ▼
+
+&#x20;     Invia la notifica
+
+
+
+\---
+
+
+
+Concetto di soglia dinamica/adattiva
+
+
+
+Se in una città ci sono 2.000 utenti compatibili, KIN mostra solo le migliori Occasioni.
+
+Se in un piccolo paese ci sono 15 utenti, può abbassare leggermente la soglia.
+
+Così l'esperienza resta sempre equilibrata.
+
+
+
+\---
+
+
+
+🌱 Il Principio del "Mistero Positivo"
+
+
+
+L'algoritmo non deve essere completamente prevedibile.
+
+
+
+Se l'utente capisce esattamente come funziona, inizierà a modificarne il comportamento per ottenere più Occasioni.
+
+
+
+Meglio mantenere una parte del funzionamento riservata, garantendo trasparenza sul perché di una proposta ma senza rivelare tutti i meccanismi interni.
+
+
+
+Questo preserva l'autenticità dell'esperienza e rende molto più difficile manipolare il sistema.
+
