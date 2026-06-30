@@ -162,3 +162,11 @@ Oppure:
 
 Funziona molto bene.
 
+
+
+\---
+
+
+
+KIN non ti chiede di descriverti. Ti conosce un Tassello alla volta.
+

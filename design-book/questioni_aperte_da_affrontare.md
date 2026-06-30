@@ -182,3 +182,49 @@ L'espressione "DNA di Affinità" è molto efficace, ma la rappresentazione trami
 
 La decisione definitiva viene rinviata fino al completamento del DNA Engine.
 
+
+
+🟡 QUESTIONE APERTA - QA-012
+
+Oggetto: ogni categoria della libreria tasselli "sotto processo" e chiedersi:
+
+"Se dovessi eliminarne una, diminuirebbe davvero la probabilità di creare una Connessione autentica?"
+
+Solo quelle che supereranno questo test avranno guadagnato il diritto di entrare nell'Impronta KIN, in perfetta coerenza con il nostro PF-011.
+
+📋 Il metodo che useremo
+
+Per ogni categoria ci porremo 5 domande.
+
+1️⃣ Aumenta davvero la probabilità di una Connessione autentica?
+
+Se la risposta è no → eliminata.
+
+2️⃣ È stabile nel tempo?
+
+Una categoria che cambia ogni settimana pesa meno di una che descrive la persona da anni.
+
+3️⃣ È spiegabile all'utente?
+
+PF-006.
+
+L'utente deve capire perché KIN gli sta chiedendo quella cosa.
+
+4️⃣ Può creare pregiudizi?
+
+PF-001.
+
+Se sì, forse va usata dall'algoritmo ma non mostrata.
+
+5️⃣ Vale il costo cognitivo?
+
+
+
+Ogni Tassello "costa" attenzione. Se una categoria aggiunge poco valore, non merita di esistere.
+
+
+
+Stato: in revisione
+
+Motivazione: ?
+

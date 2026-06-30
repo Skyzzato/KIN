@@ -6,7 +6,7 @@ Brand				KIN
 
 ✨ Funzione principale		Occasione
 
-🧬 Profilo						DNA di Affinità
+🧬 Profilo						DNA di Affinità / Impronta KIN
 
 ⭐ Algoritmo			Indice di Serendipità
 

@@ -6,9 +6,7 @@ cerca...
 
 
 
-🟡 QUESTIONE APERTA - QA-011
+assi dei tasselli
 
 
-
-Oggetto: rappresentazione dell'identità personale
 
