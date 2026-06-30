@@ -6,7 +6,5 @@ cerca...
 
 
 
-assi dei tasselli
-
-
+ADR 23/24/25 e come si calcola ricchezza impronta KIN
 

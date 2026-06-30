@@ -404,3 +404,49 @@ I Tasselli non definiscono la persona. Servono a stimare gli assi invisibili che
 
 
 
+\---
+
+
+
+🧩 Tasselli dichiarati
+
+
+
+Nascono da una risposta volontaria a una domanda.
+
+
+
+🌱 Tasselli spontanei
+
+
+
+Nascono da modifiche che l'utente decide di fare al proprio profilo o alle proprie preferenze.
+
+
+
+\---
+
+
+
+Secondo me l'Impronta KIN dovrebbe avere una memoria selettiva.
+
+
+
+Esempio:
+
+Se dieci anni fa avevi indicato "mi piace il basket" e oggi hai aggiunto dieci nuove passioni, quel vecchio Tassello potrebbe perdere peso.
+
+
+
+Non viene cancellato, ma diventa meno influente.
+
+Un po' come succede nella vita: alcune caratteristiche restano, altre cambiano con il tempo.
+
+
+
+\---
+
+
+
+"KIN non pretende di conoscere una persona in cinque minuti. La conosce con rispetto, un Tassello alla volta, e trasforma quelle piccole scoperte in Occasioni autentiche."
+

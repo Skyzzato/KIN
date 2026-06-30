@@ -108,3 +108,25 @@ Si chiederà:
 
 "Qual è la caratteristica che conosco meno di questa persona e che, se chiarita, migliorerebbe di più il matching?"
 
+
+
+📜REGOLA T-010
+
+Conferma nel tempo
+
+KIN ripropone, magari dopo due anni:
+
+Ti riconosci ancora in questa risposta?
+
+Sì
+
+No
+
+Non saprei
+
+
+
+📜REGOLA T-011
+
+Il motore registra l'origine del tassello (proposta KIN o aggiunto dall'utente)
+

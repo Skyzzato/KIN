@@ -98,3 +98,31 @@ L'utente vede:
 
 "La tua Impronta KIN sta evolvendo."
 
+
+
+\---
+
+
+
+L'utente non vede mai l'Impronta completa.
+
+
+
+Vede solo messaggi come:
+
+
+
+✨ Hai aggiunto un nuovo Tassello.
+
+
+
+🌱 La tua Impronta KIN è diventata più ricca.
+
+
+
+🤝 Questa Connessione nasce anche da aspetti profondi della vostra Impronta KIN.
+
+
+
+In questo modo l'Impronta resta un concetto quasi misterioso, coerente con il Principio del Mistero Positivo che avevamo approvato.
+
