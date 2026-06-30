@@ -120,5 +120,45 @@ set speciale - categoria: Dopo un'Occasione ignorata, se l'utente chiude una not
 
 
 
+Il test del bar
 
+
+
+Immagina due persone.
+
+
+
+"Come vi siete conosciuti?"
+
+
+
+"Su KIN."
+
+
+
+Funziona.
+
+
+
+Oppure:
+
+
+
+"Stasera attivo KIN mentre passeggio."
+
+
+
+Funziona.
+
+
+
+Oppure:
+
+
+
+"KIN mi ha segnalato un'Occasione."
+
+
+
+Funziona molto bene.
 

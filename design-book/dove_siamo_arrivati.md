@@ -6,7 +6,9 @@ cerca...
 
 
 
-🔴 Niente analisi dei percorsi abituali nella v1.0
+🟡 QUESTIONE APERTA - QA-011
 
-oppure ADR - "I dati effimeri devono essere effimeri."
+
+
+Oggetto: rappresentazione dell'identità personale
 

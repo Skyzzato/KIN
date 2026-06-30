@@ -154,6 +154,8 @@ Idee scartate
 
 Change Log
 
+Questioni aperte
+
 
 
 \---
